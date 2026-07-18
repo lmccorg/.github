@@ -86,7 +86,7 @@ git push origin staging
 
 ## Standard `.gitignore` for ASP.NET Projects
 
-When initializing a new repository, copy this exact block into a file named `.gitignore` at the root of your project directory. This prevents temporary build artifacts and user-specific configurations from polluting the repository.
+When initializing a new repository, copy this exact block into a file named `.gitignore` at the root of your project directory or **Download** it from here **[.gitignore](https://github.com/lmccorg/.github/blob/main/.gitignore)**. This prevents temporary build artifacts and user-specific configurations from polluting the repository.
 
 ```gitignore
 # IIS Express
